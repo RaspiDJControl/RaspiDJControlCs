@@ -1,0 +1,12 @@
+C:\Users\Maarten\Dropbox\Projects\RaspiDJControl\RaspiDJControl\bin\Debug\RaspiDJControl.exe.config
+C:\Users\Maarten\Dropbox\Projects\RaspiDJControl\RaspiDJControl\bin\Debug\RaspiDJControl.exe
+C:\Users\Maarten\Dropbox\Projects\RaspiDJControl\RaspiDJControl\bin\Debug\RaspiDJControl.pdb
+C:\Users\Maarten\Dropbox\Projects\RaspiDJControl\RaspiDJControl\obj\Debug\RaspiDJControl.exe
+C:\Users\Maarten\Dropbox\Projects\RaspiDJControl\RaspiDJControl\obj\Debug\RaspiDJControl.pdb
+C:\Users\Maarten\Dropbox\Projects\RaspiDJControl\RaspiDJControl\obj\Debug\RaspiDJControl.csprojResolveAssemblyReference.cache
+D:\OneDrive\.Net Projects\RaspiDJControl\RaspiDJControl\bin\Debug\RaspiDJControl.exe.config
+D:\OneDrive\.Net Projects\RaspiDJControl\RaspiDJControl\bin\Debug\RaspiDJControl.exe
+D:\OneDrive\.Net Projects\RaspiDJControl\RaspiDJControl\bin\Debug\RaspiDJControl.pdb
+D:\OneDrive\.Net Projects\RaspiDJControl\RaspiDJControl\obj\Debug\RaspiDJControl.csprojResolveAssemblyReference.cache
+D:\OneDrive\.Net Projects\RaspiDJControl\RaspiDJControl\obj\Debug\RaspiDJControl.exe
+D:\OneDrive\.Net Projects\RaspiDJControl\RaspiDJControl\obj\Debug\RaspiDJControl.pdb
